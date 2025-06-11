@@ -33,7 +33,7 @@ The installation is quick and easy.
 5. Run cloud flows as prescribed
 
 #### Run essential cloud flows for the first time.
-Run the followin cloud flows in the prescribed sequence.
+Run the following cloud flows in the prescribed sequence.
 1. SCuBA Setup | Ensure Config Data
 2. Admin | Sync Template v3 (Connectors) vSCuBA
 3. SCuBA | Deep Sync Connectors
