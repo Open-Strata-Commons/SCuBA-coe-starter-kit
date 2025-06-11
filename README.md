@@ -29,8 +29,7 @@ The installation is quick and easy.
 1. Download the [managed](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution_managed.zip) or [unmanaged](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution.zip) solution package in accordance with your preference.
 2. Import the solution in the target environment
 3. When prompted, configure connections as required.
-4. Confirm the 3 cloud flows are turned on.
-5. Run cloud flows as prescribed
+4. Run cloud flows as prescribed
 
 #### Run essential cloud flows for the first time.
 Run the following cloud flows in the prescribed sequence.
