@@ -8,7 +8,11 @@ The SCuBA CoE Starter Kit is solution based starter kit that extends Power Platf
 
 This initiative is inspired by, but not affilliated with CISA's [Secure Cloud Business Applications (SCuBA) project](https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project).
 
-This repository contains a managed and unmanaged version of the SCuBA CoE Starter Kit.
+This repository contains a [managed](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution_managed.zip) and [unmanaged](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution.zip) version of the SCuBA CoE Starter Kit.
+
+### Getting Started
+
+
 
 
 
