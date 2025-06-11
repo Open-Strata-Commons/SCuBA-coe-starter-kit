@@ -30,13 +30,16 @@ The installation is quick and easy.
 2. Import the solution in the target environment
 3. When prompted, configure connections as required.
 4. Confirm the 3 cloud flows are turned on.
-5. Run the following cloud flows in the order prescriped:
-   1. SCuBA Setup | Ensure Config Data
-   2. Admin | Sync Template v3 (Connectors) vSCuBA
-   3. SCuBA | Deep Sync Connectors
-   4. SCuBA Sync | Environment Sku Governance Settings
-   5. SCuBA Sync | PowerApp Connector Actions
-   6. SCuBA Sync | Stack Owners and Publishers
+5. Run cloud flows as prescribed
+
+#### Run essential cloud flows for the first time.
+Run the followin cloud flows in the prescribed sequence.
+1. SCuBA Setup | Ensure Config Data
+2. Admin | Sync Template v3 (Connectors) vSCuBA
+3. SCuBA | Deep Sync Connectors
+4. SCuBA Sync | Environment Sku Governance Settings
+5. SCuBA Sync | PowerApp Connector Actions
+6. SCuBA Sync | Stack Owners and Publishers
 
 
 
