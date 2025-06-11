@@ -11,8 +11,18 @@ This initiative is inspired by, but not affilliated with CISA's [Secure Cloud Bu
 This repository contains a [managed](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution_managed.zip) and [unmanaged](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution.zip) version of the SCuBA CoE Starter Kit.
 
 ### Getting Started
+#### Dependencies
+The SCuBA COE Starter Kit solution has the following dependencies:
+- CenterofExcellenceCoreComponents (4.49.2)
 
+#### Prerequisites
 
+##### Command Center App Registration
+The SCuBA CoE utilizes the Azure App registration associated with the Power Platform CoE Command Center to execute api calls which apply DLP policy settings.
+
+> If the Command Center app registration is not configured, it will need to be to use the the SCuBA CoE.
+
+The Command Center app registration will need to be a [Power Platform Service Principal](https://learn.microsoft.com/en-us/power-platform/admin/powershell-create-service-principal).
 
 
 
