@@ -29,19 +29,5 @@ The installation is quick and easy.
 1. Download the [managed](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution_managed.zip) or [unmanaged](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution.zip) solution package in accordance with your preference.
 2. Import the solution in the target environment
 3. When prompted, configure connections as required.
-4. Run cloud flows as prescribed
-
-#### Run essential cloud flows for the first time.
-Run the following cloud flows in the prescribed sequence.
-1. SCuBA Setup | Ensure Config Data
-2. Admin | Sync Template v3 (Connectors) vSCuBA
-3. SCuBA | Deep Sync Connectors
-4. SCuBA Sync | Environment Sku Governance Settings
-5. SCuBA Sync | PowerApp Connector Actions
-6. SCuBA Sync | Stack Owners and Publishers
-
-
-
-
-
-
+4. Ensure the solution cloud flows are turned on.
+5. Run the "SCuBA Setup | Run Initial" cloud Flow.
