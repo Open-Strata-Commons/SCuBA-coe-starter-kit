@@ -22,17 +22,15 @@ The SCuBA COE Starter Kit solution has the following dependencies:
 
 #### Command Center App Registration
 
-The SCuBA CoE utilizes the Azure App registration associated with the Power Platform CoE Command Center to execute api calls which apply DLP policy settings.
+The SCuBA CoE requires a Power Platform service principal to execute api calls which apply DLP policy settings.  More information can be found here: [Creating a service principal application using PowerShell](https://learn.microsoft.com/en-us/power-platform/admin/powershell-create-service-principal).
 
-> If the Command Center app registration is not configured, it will need to be to use the the SCuBA CoE.
-
-The Command Center app registration will need to be a [Power Platform Service Principal](https://learn.microsoft.com/en-us/power-platform/admin/powershell-create-service-principal).
+This repo contains a [sample powershell script](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/powershell/register-pp-spn.ps1) for registering a pre-existing Azure App registration.
 
 ### Install the solution
 
 The installation is quick and easy.
 1. Download the [managed](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution_managed.zip) or [unmanaged](https://github.com/Open-Strata-Commons/SCuBA-coe-starter-kit/raw/refs/heads/main/PowerPlatformSCuBACOE/PowerPlatformSCuBACOE.Solution.zip) solution package in accordance with your preference.
 2. Import the solution in the target environment.  Do not specify any environment variable values at this time.
-3. Finish the process following using the SCuBA CoE Setup Wizard found in the SCuBA CoE Application.  See image below.
+3. Run the SCuBA CoE Setup Wizard found in the SCuBA CoE Application.  See image below.
 
     ![SCuBA CoE Setup Wizard](/media/guided-setup-01.png)
