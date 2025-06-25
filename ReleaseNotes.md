@@ -3,6 +3,7 @@
 ## 1.0.10
 
 - Resolved issue with Day Zero Policy confidential connectors.
+- Set SCuBA application client secret default textbox mode to password.
 
 ## 1.0.9
 
@@ -10,7 +11,7 @@
 
 ## 1.0.8
 
-- Removed dependency on Command Center Application and moved to enabled the option to specify a SCuBA specific management application.
+- Removed dependency on Command Center Application and implemented a SCuBA specific management application environment variables.
 
 ## 1.0.7
 
