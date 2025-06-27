@@ -2,6 +2,10 @@
 
 ## 1.0
 
+### 1.0.11
+
+- Implemented Strict Allow Policy definitions.
+
 ### 1.0.10
 
 - Resolved issue with Day Zero Policy confidential connectors.
