@@ -1,6 +1,6 @@
 # SCuBA-coe-starter-kit ([1.0.11](/ReleaseNotes.md#1011))
 
-Cloud Business Applications (SCUBA) CoE Starter Kit for the Microsoft Power Platform Center of Excellence (CoE)
+Secure Cloud Business Applications (SCUBA) CoE Starter Kit for the Microsoft Power Platform Center of Excellence (CoE)
 
 ## About the SCuBA CoE Starter Kit
 
