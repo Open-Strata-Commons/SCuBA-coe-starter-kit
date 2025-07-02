@@ -2,6 +2,11 @@
 
 ## 1.0
 
+### 1.0.12
+
+- Improved Setup experience of Gov High Cloud deployments.
+- Improved User Interface experience.
+
 ### 1.0.11
 
 - Implemented Strict Allow Policy definitions.
