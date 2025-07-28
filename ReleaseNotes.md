@@ -2,6 +2,10 @@
 
 ## 1.0
 
+### 1.0.13
+
+- Implemented Connector Enablement Configuration management for Gov Cloud deployments.
+
 ### 1.0.12
 
 - Improved Setup experience of Gov High Cloud deployments.
